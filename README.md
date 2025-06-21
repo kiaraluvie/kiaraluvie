@@ -5,7 +5,7 @@
 
 - 🚀 Desarrollador de sistemas 
 
-- 🌐 Web: [softwarebu.com](https://softwarebu.com)
+ 
 
 
 
@@ -17,6 +17,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiaraluvie&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiaraluvie&show_icons=true)
