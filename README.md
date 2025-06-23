@@ -3,7 +3,7 @@
 
 🌍 **Website**: [Tu portafolio/sitio web si tienes uno] 
 📧 **Email**: kiarareyeslpz@gmail.com 
-💬 **LinkedIn**: [Tu perfil de LinkedIn si tienes uno] 
+💬 **LinkedIn**: https://www.linkedin.com/in/kiarareyeslpz/
 🚀 **Estado**: ¡Aprendiendo y construyendo!
 
 ---
