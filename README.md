@@ -1,6 +1,4 @@
-No te preocupes, Kiara. Aquí tienes una versión de tu perfil de GitHub adaptada para una estudiante de segundo año de desarrollo de software, enfocándome en las tecnologías que mencionaste. ¡Mucha suerte\!
 
-```
 # 👩‍💻 Estudiante de Segundo Año de Desarrollo de Software
 
 🌍 **Website**: [Tu portafolio/sitio web si tienes uno] 
